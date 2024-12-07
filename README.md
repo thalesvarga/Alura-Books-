@@ -1,4 +1,4 @@
- ![ALURABooks ](img/aluraBooks.png)
+ ![ALURABooks ](imagens/aluraBooks.png)
 
  ## Resumo do Projeto
 
