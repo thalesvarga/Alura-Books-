@@ -6,6 +6,12 @@
 
  ## Técnicas e Tecnologias Utilizadas
 
- - `HTML`
- - `JavaScript`
- - `Metodos de Array`
+ - ``HTML``
+ - ``JavaScript``
+ - ``Metodos de Array``
+ - ``Criação de um menu hambúrguer interativo``
+ - ``Primeiras experiências práticas com estilização em CSS3 e Flexbox``
+ - ``Design responsivo com suporte para versões Desktop, Mobile e Tablet``
+ - ``Manipulação do DOM para interatividade.``
+
+
